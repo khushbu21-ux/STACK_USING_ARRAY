@@ -1,3 +1,3 @@
 # STACK_USING_ARRAY
 
-code written in simplest way in c
+Code written in simplest way in C language.
